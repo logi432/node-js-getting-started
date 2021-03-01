@@ -1,0 +1,11 @@
+---
+application:
+  name: "node-js-getting-started"
+  project: "firsts"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-node-js-getting-started"
+  routes:
+  - application_name: "node-js-getting-started"
+    paths:
+    - "/*"
